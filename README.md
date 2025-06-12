@@ -9,27 +9,17 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 I’m currently building Full-stack web apps using **Next.js** **React**, **Node.js**, and **MongoDB**
+- 🚀 I’m currently building Full-stack web apps using **Next.js** **React**, **Node.js**,**Express.js**, **Nest.js** and **MongoDB**
 - 📫 Reach me at: **ydvakhilesh16v@gmail.com**
-- 🧠 DSA enthusiast & consistent LeetCode
-- 🎯 Goal: Become a software engineer contributing to impactful products.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhileshyadav16&show_icons=true&theme=tokyonight" alt="Akhilesh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshyadav16&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshyadav16&theme=tokyonight" />
-</div>
+- 🧠 DSA enthusiast
+- 🎯 Goal: Become a Software Engineer contributing to impactful products.
 
 ---
 
 ### 🚀 My Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,nest,express,mongodb,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,,nestjs,express,mongodb" />
 </div>
 
 ---
