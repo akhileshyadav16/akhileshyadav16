@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Yadav</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | Problem Solver | Tech Explorer</h3>
+<h3 align="center">Full-Stack Developer | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Software+Engineer;Lifelong+Learner" alt="Typing SVG" />
@@ -24,14 +24,6 @@
 
 ---
 
-### 📌 Most Used Languages (by %)
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhileshyadav16&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhileshyadav16&theme=tokyonight" />
-</div>
-
----
 
 ### 📫 Let's Connect
 
