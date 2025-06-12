@@ -8,9 +8,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 I’m currently building Full-stack web apps using **Next.js**, **MERN stack**, **Nest.js**,**PostgreSQL**.
-- 📫 Reach me at: **ydvakhilesh16v@gmail.com**.
-- 🧠 DSA enthusiast.
+- 🚀 I’m currently building Full-stack web apps using **Next.js**, **MERN stack**, **Nest.js**, **PostgreSQL**
+- 📫 Reach me at: **ydvakhilesh16@gmail.com**
+- 🧠 DSA enthusiast
 - 🎯 Goal: Become a Software Engineer contributing to impactful products.
 
 ---
